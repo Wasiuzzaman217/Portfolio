@@ -2,6 +2,7 @@ export const personalInfo = {
   name: "Md Wasiuzzaman",
   role: "Computer Science Engineer",
   bio: "Passionate about full-stack development, machine learning, and building robust web applications.",
+  resume: "/resume.pdf",
   github: "https://github.com/Wasiuzzaman217",
   linkedin: "https://linkedin.com/in/wasiuzzaman",
   email: "bijoywashiuzzaman@gmail.com",
