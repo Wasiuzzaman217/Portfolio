@@ -45,18 +45,23 @@ export const projects = [
 ];
 
 export const skills = [
-  {
-    category: "Languages",
-    items: ["Python", "JavaScript (ES6+)", "PHP", "C++", "SQL", "HTML5/CSS3"]
-  },
-  {
-    category: "Frameworks & Libraries",
-    items: ["React", "Tailwind CSS", "OpenCV", "Node.js", "Express"]
-  },
-  {
-    category: "Databases & Tools",
-    items: ["MySQL", "Git & GitHub", "Vercel", "Laragon", "Apache", "HeidiSQL"]
-  }
+  "Python",
+  "JavaScript (ES6+)",
+  "PHP",
+  "C++",
+  "SQL",
+  "HTML5/CSS3",
+  "React",
+  "Tailwind CSS",
+  "OpenCV",
+  "Node.js",
+  "Express",
+  "MySQL",
+  "Git & GitHub",
+  "Vercel",
+  "Laragon",
+  "Apache",
+  "HeidiSQL"
 ];
 
 // Default export in case components use default import
