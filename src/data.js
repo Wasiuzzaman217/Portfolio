@@ -34,14 +34,14 @@ export const projects = [
   },
   {
     id: 3,
-    title: "Upcoming Project: AI Code Reviewer",
-    subtitle: "Automated PR reviewer leveraging LLMs.",
-    description: "Currently developing an automated tool that analyzes GitHub Pull Requests for security flaws, code style, and performance suggestions.",
-    github: "https://github.com/Wasiuzzaman217",
-    githubUrl: "https://github.com/Wasiuzzaman217",
-    githubLink: "https://github.com/Wasiuzzaman217",
-    link: "https://github.com/Wasiuzzaman217",
-    tags: ["Node.js", "OpenAI API", "React", "Tailwind"]
+    title: "AI-Powered Code Reviewer",
+    subtitle: "Full-stack automated code auditing dashboard leveraging Large Language Models.",
+    description: "Developed a secure full-stack application that performs automated static code reviews using an Express REST API integrated with the OpenAI API. Implemented structural system prompting to enforce structured JSON output alongside an integrated fail-safe portfolio mode that handles client-side rendering seamlessly via elegant mock previews.",
+    github: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
+    githubUrl: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
+    githubLink: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
+    link: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
+    tags: ["Node.js", "Express", "OpenAI API", "React", "Tailwind CSS"]
   }
 ];
 
