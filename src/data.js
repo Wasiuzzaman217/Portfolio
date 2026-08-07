@@ -43,11 +43,22 @@ export const projects = [
     link: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
     tags: ["Node.js", "Express", "OpenAI API", "React", "Tailwind CSS"]
   }
+  {
+    id: 4,
+    title: "Timezone App (World Clock Dashboard)",
+    subtitle: "Interactive dashboard for real-time global clock tracking and search.",
+    description: "Built with HTML, CSS, and JavaScript, this app includes location detection, a light/dark theme toggle, and a world clock dashboard where multiple countries can be pinned side‑by‑side.",
+    github: "https://github.com/Wasiuzzaman217/Timezone-App",
+    githubUrl: "https://github.com/Wasiuzzaman217/Timezone-App",
+    githubLink: "https://github.com/Wasiuzzaman217/Timezone-App",
+    link: "https://github.com/Wasiuzzaman217/Timezone-App", // Change this link if you host it on GitHub Pages/Vercel later
+    tags: ["HTML", "CSS", "JavaScript", "Git"]
+  }
 ];
 
 export const skills = [
   "Python",
-  "JavaScript (ES6+)",
+  "JavaScript",
   "PHP",
   "C++",
   "SQL",
