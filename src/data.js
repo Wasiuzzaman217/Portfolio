@@ -42,17 +42,17 @@ export const projects = [
     githubLink: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
     link: "https://github.com/Wasiuzzaman217/ai-code-reviewer",
     tags: ["Node.js", "Express", "OpenAI API", "React", "Tailwind CSS"]
-  }
+  }, // <-- This comma was missing here!
   {
     id: 4,
     title: "Timezone App (World Clock Dashboard)",
     subtitle: "Interactive dashboard for real-time global clock tracking and search.",
-    description: "Built with HTML, CSS, and JavaScript, this app includes location detection, a light/dark theme toggle, and a world clock dashboard where multiple countries can be pinned side‑by‑side.",
+    description: "Built an interactive frontend world clock dashboard using vanilla web technologies. Features localized geolocation tracking, dynamic alphanumeric search filters, an integrated light/dark UI interface toggle, and a multi-region pinning layout for efficient global monitoring.",
     github: "https://github.com/Wasiuzzaman217/Timezone-App",
     githubUrl: "https://github.com/Wasiuzzaman217/Timezone-App",
     githubLink: "https://github.com/Wasiuzzaman217/Timezone-App",
-    link: "https://github.com/Wasiuzzaman217/Timezone-App", // Change this link if you host it on GitHub Pages/Vercel later
-    tags: ["HTML", "CSS", "JavaScript", "Git"]
+    link: "https://github.com/Wasiuzzaman217/Timezone-App",
+    tags: ["HTML5", "CSS3", "JavaScript", "Git"]
   }
 ];
 
@@ -76,5 +76,4 @@ export const skills = [
   "HeidiSQL"
 ];
 
-// Default export in case components use default import
 export default { personalInfo, projects, skills };
